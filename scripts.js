@@ -24,7 +24,7 @@ function sortear() {
         img.src = "./assets/dadogif-unscreen.gif"
         //  img.src = "./assets/dadogif.webp" dado gif
 
-        img.style.height = "374px"
+        img.style.height = "100%"
         img.style.width = "100%"
 
 
