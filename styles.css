@@ -141,7 +141,9 @@ div {
     }
 
     .div-image {
+
         height: 35vh;
+        width: 100%;
         padding: 0 5%;
 
     }
@@ -151,7 +153,7 @@ div {
 
     #logo {
         margin: 5vh auto;
-        height: 180px;
+        height: 160px;
 
     }
 
@@ -162,6 +164,10 @@ div {
         padding: 0 10%;
         font-size: 42px;
 
+    }
+
+    div {
+        gap: 10%
     }
 
     #botao-sortear {
