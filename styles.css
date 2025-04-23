@@ -7,6 +7,7 @@
 
 body {
     background-color: black;
+
 }
 
 #logo {
@@ -28,18 +29,18 @@ p {
 
 #resultado {
 
-    
+
     visibility: hidden;
-    margin: 0 auto 30px;
+    margin: 10% auto;
     color: white;
-    font-size: 56px;
-    width: 80px;
+    font-size: 88px;
+    width: 100%;
     height: 30px;
-    line-height: 37.5px;
     align-content: center;
+    text-align: center;
     color: red;
     text-shadow: 1px 1px 2px rgba(255, 255, 255, 0.802);
-    text-align: center;
+
 
 }
 
@@ -48,6 +49,7 @@ div {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0 8%;
     gap: 62px;
 
 }
@@ -58,14 +60,17 @@ div {
     color: red;
     letter-spacing: 1px;
     text-align: center;
-    width: 342px;
+    width: 100%;
     height: 74px;
     border-radius: 14px;
     border: 1px;
 
+    transition: 200ms all ease-in-out;
+
 }
 
-.inputs::-webkit-inner-spin-button{ /* tirar a setinha do input */
+.inputs::-webkit-inner-spin-button {
+    /* tirar a setinha do input */
     appearance: none;
 }
 
@@ -99,7 +104,9 @@ div {
     border-radius: 10px;
     border-color: black;
     cursor: pointer;
-    
+
+    transition: 200ms all ease-in-out;
+
 
 }
 
@@ -114,9 +121,48 @@ div {
 #botao-sortear:hover {
     box-shadow: 1px 1px 20px rgba(255, 255, 255, 0.802);
 }
-    
-   
-   
+
+@media screen and (max-width: 800px) {
+
+    #logo {
+        margin: 5vh auto;
+        height: 180px;
+
+    }
+
+    p {
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        padding: 0 10%;
+        font-size: 42px;
+
+    }
+
+    #botao-sortear {
+
+        font-size: 32px;
+
+        width: 50%;
+
+        margin: 60px auto;
 
 
 
+
+
+    }
+
+    #botao-sortear:active {
+        color: black;
+        width: 55%;
+        box-shadow: 1px 1px 20px rgba(172, 5, 5, 0.802);
+    }
+
+    #resultado {
+
+        font-size: 72px;
+
+    }
+
+}

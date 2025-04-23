@@ -1,7 +1,7 @@
 const botaoSortear = document.getElementById("botao-sortear")
 const paragrafo = document.querySelector("#resultado")
 
-function sortear(){
+function sortear() {
 
     let min = Math.ceil(document.getElementById("min").value)
 
@@ -13,22 +13,23 @@ function sortear(){
 
     console.log(img)
 
-    
 
-    if (max > min){
+
+    if (max > min) {
 
         paragrafo.innerHTML = result
-    
+
         paragrafo.style.visibility = "visible"
 
         img.src = "./assets/dadogif-unscreen.gif"
-       //  img.src = "./assets/dadogif.webp" dado gif
-       
+        //  img.src = "./assets/dadogif.webp" dado gif
+
         img.style.height = "374px"
-      
+        img.style.width = "100%"
 
 
-        
+
+
     }
 
     else {
@@ -37,11 +38,11 @@ function sortear(){
 
 
 
-    
-   
 
-    
-    
+
+
+
+
 }
 
 botaoSortear.addEventListener("click", sortear)
