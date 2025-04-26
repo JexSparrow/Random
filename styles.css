@@ -7,19 +7,26 @@
 
 body {
     background-color: black;
+    height: 100vh;
+
 
 
 }
 
 .div-image {
-    height: 40vh;
-    padding: 0 20%;
+    margin: 50px auto;
+    height: 35vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 
 }
 
 #logo {
     display: block;
-    margin: 156px auto 126px;
+    height: 100%;
+
 }
 
 
@@ -40,7 +47,7 @@ p {
 
 
     visibility: hidden;
-    margin: 10% auto;
+    margin: 3% auto;
     color: white;
     font-size: 88px;
     width: 100%;
@@ -58,7 +65,7 @@ div {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0 8%;
+    padding: 0 30%;
     gap: 62px;
 
 }
@@ -104,12 +111,12 @@ div {
     font-size: 36px;
     color: blanchedalmond;
     letter-spacing: 2px;
-    width: 342px;
-    height: 72px;
+    width: 260px;
+    height: 56px;
     background: rgb(164, 28, 28);
     background: radial-gradient(circle, rgba(164, 28, 28, 1) 0%, rgba(237, 0, 0, 1) 51%, rgba(70, 35, 31, 1) 100%, rgba(9, 0, 36, 1) 255%);
     display: block;
-    margin: 80px auto 0;
+    margin: 30px auto 0;
     border-radius: 10px;
     border-color: black;
     cursor: pointer;
@@ -121,8 +128,7 @@ div {
 
 #botao-sortear:active {
 
-    width: 346px;
-    height: 74px;
+    scale: 1.05;
     font-size: 38px;
     letter-spacing: 3px;
 }
@@ -131,7 +137,7 @@ div {
     box-shadow: 1px 1px 20px rgba(255, 255, 255, 0.802);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 920px) {
 
     main {
         display: flex;
@@ -144,7 +150,7 @@ div {
 
         height: 35vh;
         width: 100%;
-        padding: 0 5%;
+        padding: 10% 5%;
 
     }
 
@@ -167,8 +173,11 @@ div {
     }
 
     div {
-        gap: 10%
+        gap: 10%;
+        padding: 0 15%;
     }
+
+
 
     #botao-sortear {
 
@@ -193,6 +202,7 @@ div {
     #resultado {
 
         font-size: 72px;
+        margin-bottom: 30px;
 
     }
 
