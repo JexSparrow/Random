@@ -15,8 +15,9 @@ LAYOUT PARA DESKTOP
 ![Captura de tela 2025-04-29 224058](https://github.com/user-attachments/assets/a5f3df23-a1b4-4970-94fc-c5be1010e8fd)
 ![Captura de tela 2025-04-29 224116](https://github.com/user-attachments/assets/e4f3e188-958d-45b3-bf6a-712b2b6f5870)
 ![Captura de tela 2025-04-29 224133](https://github.com/user-attachments/assets/105cf3b8-1d52-4a5f-973a-6588640cec8e)
-<br>
 LAYOUT DISPOSITIVOS MÓVEIS
+<br>
+
 ![Captura de tela 2025-04-29 224554](https://github.com/user-attachments/assets/8b6c8b12-2dd3-4585-972b-0bb5f521819c)
 ![Captura de tela 2025-04-30 132658](https://github.com/user-attachments/assets/6560b8d7-6103-4eb9-ae30-e427a444c31c)
 
