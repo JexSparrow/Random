@@ -12,13 +12,16 @@ Site está responsivo para Mobile também.
 Link(https://random-number-jex.netlify.app/)
 
 <h2>LAYOUT PARA DESKTOP</h2>
-![Captura de tela 2025-04-29 224058](https://github.com/user-attachments/assets/de694e9e-1cc9-4f2b-a661-bb35c58cd0ac)
-![Captura de tela 2025-04-29 224133](https://github.com/user-attachments/assets/918a5710-869b-4f3e-a6e3-1c34f7e78fb8)
+
+![Captura de tela 2025-04-29 224058](https://github.com/user-attachments/assets/4b9b239b-2efc-43f2-a8df-5a4d4e6b1d93)
+![Captura de tela 2025-04-29 224133](https://github.com/user-attachments/assets/64524103-2882-4e8c-8772-3757c0f8b068)
 
 
 <h2>LAYOUT PARA DISPOSITIVOS MÓVEIS</h2>
-![Captura de tela 2025-04-29 224554](https://github.com/user-attachments/assets/e8aec2a5-6a6d-42c6-a6a5-dd14946a8bc6)
-![Captura de tela 2025-04-30 132658](https://github.com/user-attachments/assets/dfd6569c-dece-417f-a9a7-c5fecb9d4f6d)
+
+![Captura de tela 2025-04-29 224554](https://github.com/user-attachments/assets/e8f2f9a0-8f1d-4698-919c-470e71394336)
+![Captura de tela 2025-04-30 132658](https://github.com/user-attachments/assets/132dc099-d83e-4bfa-86c9-4cbdbc493220)
+
 
 
 
