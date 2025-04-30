@@ -12,11 +12,13 @@ Site está responsivo para Mobile também.
 Link(https://random-number-jex.netlify.app/)
 
 <h2>LAYOUT PARA DESKTOP</h2>
-![Captura de tela 2025-04-29 224058](https://github.com/user-attachments/assets/a5f3df23-a1b4-4970-94fc-c5be1010e8fd)
-![Captura de tela 2025-04-29 224116](https://github.com/user-attachments/assets/e4f3e188-958d-45b3-bf6a-712b2b6f5870)
-![Captura de tela 2025-04-29 224133](https://github.com/user-attachments/assets/105cf3b8-1d52-4a5f-973a-6588640cec8e)
+![Captura de tela 2025-04-29 224058](https://github.com/user-attachments/assets/de694e9e-1cc9-4f2b-a661-bb35c58cd0ac)
+![Captura de tela 2025-04-29 224133](https://github.com/user-attachments/assets/918a5710-869b-4f3e-a6e3-1c34f7e78fb8)
+
+
 <h2>LAYOUT PARA DISPOSITIVOS MÓVEIS</h2>
-<br>
-![Captura de tela 2025-04-29 224554](https://github.com/user-attachments/assets/8b6c8b12-2dd3-4585-972b-0bb5f521819c)
-![Captura de tela 2025-04-30 132658](https://github.com/user-attachments/assets/6560b8d7-6103-4eb9-ae30-e427a444c31c)
+![Captura de tela 2025-04-29 224554](https://github.com/user-attachments/assets/e8aec2a5-6a6d-42c6-a6a5-dd14946a8bc6)
+![Captura de tela 2025-04-30 132658](https://github.com/user-attachments/assets/dfd6569c-dece-417f-a9a7-c5fecb9d4f6d)
+
+
 
