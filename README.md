@@ -9,7 +9,7 @@ Este projeto demonstra minha capacidade de criar interfaces interativas que capt
 
 Site está responsivo para Mobile também.
 
-Link[(https://lnkd.in/d6PnYgNc](https://random-number-jex.netlify.app/)]
+Link(https://random-number-jex.netlify.app/)
 
 LAYOUT PARA DESKTOP
 ![Captura de tela 2025-04-29 224058](https://github.com/user-attachments/assets/a5f3df23-a1b4-4970-94fc-c5be1010e8fd)
